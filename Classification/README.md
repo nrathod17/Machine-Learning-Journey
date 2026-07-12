@@ -162,7 +162,7 @@ Understanding how models learn human-readable decision rules and why controlling
 
 ---
 
-# Notebook 5 — Ensemble Learning (In Pipeline)
+# Notebook 5 — Ensemble Learning
 
 ### Objective
 
