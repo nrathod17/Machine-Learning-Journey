@@ -133,7 +133,7 @@ Understanding how models can create complex boundaries by transforming the featu
 
 ---
 
-# Notebook 4 — Rule-Based Learning: Decision Trees (In Pipeline)
+# Notebook 4 — Rule-Based Learning: Decision Trees
 
 ### Objective
 
